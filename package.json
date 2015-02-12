@@ -1,0 +1,9 @@
+{
+  "name": "BODA-CAMP",
+  "description": "BODA CAMPING MUSIC SERVICE",
+  "author": "BASSE",
+  "dependencies": {
+    "mediaservers": ">= 0.0.4",
+  },
+  "engine": "node 0.4.1"
+}
